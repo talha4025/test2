@@ -3,3 +3,7 @@ Second Demo
 
 ## New
 haha
+
+## Local
+
+1. Open in browser
